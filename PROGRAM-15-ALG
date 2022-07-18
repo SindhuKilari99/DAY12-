@@ -1,0 +1,5 @@
+Initialize the strings with empty string.
+Size will be stored in one variable.
+Use for loop to find the empty string.
+When you found empty string that will be replaced with the given string.
+Print all the tsrings along with replaced string.
